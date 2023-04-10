@@ -4,7 +4,6 @@
 
 - Java 17
 - Spring Boot 3.0
-- React 18.2
 - Thymeleaf
 - RestTemplate
 
